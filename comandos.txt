@@ -1,0 +1,189 @@
+    1  git --v
+    2  node --v
+    3  node --version
+    4  git --version
+    5  dir
+    6  ls
+    7  ls
+    8  cd
+    9  dir
+   10  cd desktop
+   11  pwd
+   12  cd
+   13  pwd
+   14  cd Desktop
+   15  mkdir camada
+   16  cd camada
+   17  cd
+   18  pws
+   19  pwd
+   20  ls
+   21  cd Documents
+   22  ls
+   23  cd Digital Home
+   24  cd Digital Home/
+   25  cd 'Digital Home'
+   26  ls
+   27  mkdir Introduccion a la informatica
+   28  cd Introduccion a la informatica
+   29  cd 'Introduccion a la informatica'
+   30  cd 'Introduccion a la informatica'
+   31  mkdir 'Introduccion a la informatica'
+   32  cd 'Introduccion a la informatica'
+   33  touch Gatitos.txt
+   34  touch perritos.xlsx canarios.docx test.pdf sinextension
+   35  ls
+   36  cd
+   37  ls
+   38  cd Documents
+   39  cd 'Digital Home'
+   40  cd..
+   41  cd ..
+   42  cd 'Digital Home'
+   43  cd 'Introduccion a la informatica'
+   44  code.
+   45  code
+   46  code .
+   47  code .
+   48  ls
+   49  cd desktop
+   50  cd
+   51  cd Desktop
+   52  mkdir Informes
+   53  cd Informes/ touch informeAnual.xls
+   54  cd Informes/
+   55  touch informeAnual.xls
+   56  clear
+   57  cd
+   58  clear
+   59  ls
+   60  cd Desktop
+   61  mdkir Informes
+   62  clear
+   63  cd
+   64  clear
+   65  ls
+   66  cd Desktop
+   67  mkdir Informes
+   68  cd Informes/
+   69  touch informeAnual.xls
+   70  ls
+   71  mkdir auditoria
+   72  cd auditoria
+   73  touch auditoria.xls
+   74  touch reporteConsolidado.xls
+   75  ls
+   76  mv auditoria.xls Informes
+   77  mv Informes desktop/Informes
+   78  mv Informes Desktop/Informes
+   79  touch test.txt
+   80  mv test.txt /Desktop
+   81  mkdir carpetatest
+   82  mv test.txt carpetatest/
+   83  clear
+   84  cd..
+   85  cd ..
+   86  mkdir auditoria
+   87  clear
+   88  mkdir auditoria
+   89  touch auditoria.xls
+   90  touch reporteConsolidado.xls
+   91  ls
+   92  mv auditoria.xls auditoria
+   93  cd auditoria/
+   94  ls
+   95  cd
+   96  git branch -a
+   97  clear
+   98  ls
+   99  git.
+  100  cd git.
+  101  [200~
+  102   ntuser.dat.LOG2
+  103   ntuser.ini
+  104   shipin7_update_temp/
+  105   source/
+  106   wp-config.php
+  107  Intel@Financiero MINGW64 ~
+  108  $ git.
+  109  bash: git.: command not found
+  110  git config
+  111  git --version
+  112  $ git config --global init.defaultBranch main
+  113  git config --global init.defaultBranch main
+  114  git --version
+  115  cd Documents
+  116  cd "Digital Home"
+  117  ls
+  118  mkdir "Repositorio Local"
+  119  cd "Repositorio Local"
+  120  git init
+  121  git config user.name "LuisCruz"
+  122  git config user.email "luiscruzm.ec@gmail.com"
+  123  git status
+  124  git add app.js
+  125  git add app.js
+  126  git status
+  127  git status
+  128  git add .
+  129  git status
+  130  git status
+  131  git add .
+  132  git status
+  133  mkdir carpeta
+  134  cd carpeta/
+  135  clear
+  136  ls
+  137  cd ..
+  138  ls
+  139  git status
+  140  touch test.js
+  141  git status
+  142  git add .
+  143  cd Desktop
+  144  mkdir 'New Folder2'
+  145  cd 'New Folder2'
+  146  touch test.xls
+  147  cd Desktop
+  148  mkdir "jacinto carpeta"
+  149  cd "jacinto carpeta"
+  150  touch test.xls
+  151  cd
+  152  ls
+  153  ls 'a
+  154  q
+  155  exit
+  156  .as
+  157  exit
+  158  cd Desktop
+  159  ĺs
+  160  ls 'a
+  161  q
+  162  cd Desktop
+  163  mkdir "prueba"
+  164  cd prueba/
+  165  touch texto.txt
+  166  git init
+  167  git remote add origin https://github.com/LuisCruz-1/08-20-2023_LuisCruz.git
+  168  touch main.js index.html
+  169  git add .
+  170  git commit -m "commit 1 LuisCruz"
+  171  git push origin main
+  172  git branch feature
+  173  git checkout feature
+  174  mkdir Hardware Software SeguridadInformatica
+  175  touch Hardware/resumen.txt
+  176  touch Software/resumen.txt SeguridadInformatica/resumen.txt
+  177  git push origin feature
+  178  git add .
+  179  git push origin feature
+  180  git commit -m "commit 2 Luis Cruz"
+  181  git push origin feature
+  182  git checkout main
+  183  mv index.html resumenSoftware.txt
+  184  mv main.js resumenHardware.txt
+  185  nano resumenSoftware.txt 
+  186  nano resumenHardware.txt 
+  187  touch comandos.txt
+  188  history
+  189  history > comandos.txt
